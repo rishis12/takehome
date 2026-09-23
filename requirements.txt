@@ -1,0 +1,4 @@
+# for backend server
+fastapi
+# server used 
+uvicorn
