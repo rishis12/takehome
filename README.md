@@ -1,4 +1,4 @@
-# chrobinson-takehome
+# takehome
 Refrences used: 
 1. Deciding which search algorithim to use
 https://stackoverflow.com/questions/49160653/bfs-recursive-vs-iterative
